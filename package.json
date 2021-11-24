@@ -1,0 +1,8 @@
+{
+  "name": "tower-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:marsleite/tower-backend.git",
+  "author": "Marcelo <marsleite@gmail.com>",
+  "license": "MIT"
+}
